@@ -5,3 +5,4 @@ matplotlib==3.0.0
 scikit-learn==0.20.0
 seaborn==0.9.0
 statsmodels==0.9.0
+rpy2==2.9.4
