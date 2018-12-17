@@ -1,3 +1,5 @@
+### Doing M249 Practical Modern Statistics in Python Style
+
 M249 Practical Modern Statistics is a great statistics course from the Open University.
 
 It contains the following modules:
