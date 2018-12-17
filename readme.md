@@ -5,10 +5,10 @@ M249 Practical Modern Statistics is a great statistics course from the Open Univ
 It contains the following modules:
 - Medical Statistics
 - Time Series
-- Multivariate Statistics
-- Bayesian statistics
+- Multivariate Analysis
+- Bayesian Statistics
 
-The moduls  uses SPSS and Winbugs to teach these different branches of statistics.
+The module uses SPSS and Winbugs to teach these different branches of statistics.
 
 This is my attempt of doing these modules  with Python only.
 
