@@ -15,3 +15,5 @@ This is my attempt of doing these modules  with Python only.
 I'm mainly using pandas, statsmodels, matplotlib, seaborn, sci-kit learn and pymc. 
 
 This is based on Python 3 (and a recent version of R)
+
+For now I've "turned off" R in both runtime.txt and requirements.txt to see if the Binder image gets built faster without R. 
