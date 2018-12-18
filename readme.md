@@ -13,3 +13,5 @@ The module uses SPSS and Winbugs to teach these different branches of statistics
 This is my attempt of doing these modules  with Python only.
 
 I'm mainly using pandas, statsmodels, matplotlib, seaborn, sci-kit learn and pymc. 
+
+This is based on Python 3 (and a recent version of R)
